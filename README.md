@@ -1,1 +1,6 @@
-# Java-looping-clinic
+- Input a lower bound
+- Input an upper bound
+- Calculate the sum of all numbers between and including the bounds
+- Calculate the average of all numbers
+- Prompt the user if they want to calculate another set of values
+- Ensure the user enters both a lower and upper bound
